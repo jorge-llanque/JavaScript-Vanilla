@@ -3,15 +3,16 @@ cache:
   directories:
     - ~/.npm
 node_js:
-  - node
+  - '12'
 git:
   depth: 3
+  quiet: true
 script:
   - yarn build
-deploy:
+deploy: 
   provider: pages
   edge: true
-  skip-cleanup : true
+  skip-cleanup: true
   keep-history: true
   github-token: $GITHUB_TOKEN
   local-dir: dist/
