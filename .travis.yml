@@ -6,6 +6,7 @@ node_js:
   - '12'
 git:
   depth: 3
+  quiet: true
 script:
   - yarn build
 deploy: 
