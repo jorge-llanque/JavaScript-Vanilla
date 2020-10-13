@@ -18,4 +18,8 @@ deploy:
   target-branch: gh-pages
   commit_message: "Deploy Release"
   on:
+<<<<<<< HEAD
     branch: master
+=======
+    branch: master
+>>>>>>> 577540e09f0ad7b0c48b5cce2147cbc96578446c
