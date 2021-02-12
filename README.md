@@ -1,5 +1,5 @@
 # PROYECTO JS VANILLA
-Este es un proyecto SPA que ha sido desarrollado con JavaScript puro, y además he usado la API de [RickAndMorty](https://rickandmortyapi.com/) para la obtención de datos.
+Este es un proyecto SPA que ha sido desarrollado con JavaScript Vanilla, y se ha implementado la API de [RickAndMorty](https://rickandmortyapi.com/) para la obtención de datos.
 
 ## Instalación
 No te olvides de descargar las librerías requeridas con el comando:
