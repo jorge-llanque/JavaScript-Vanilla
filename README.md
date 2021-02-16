@@ -1,10 +1,13 @@
-# PROYECTO JS VANILLA
-Este es un proyecto SPA que ha sido desarrollado con JavaScript Vanilla, y se ha implementado la API de [RickAndMorty](https://rickandmortyapi.com/) para la obtención de datos.
+# RICK AND MORTY - API
+This project was development with JavaScript Vanilla, and I'm using an API called [RickAndMorty](https://rickandmortyapi.com/).
 
-## Instalación
-No te olvides de descargar las librerías requeridas con el comando:
+## Demo
+You can see the project [here](https://jorge-llanque.github.io/JavaScript-Vanilla/).
+
+## Install
+You can run the app from you computer.
+Don't forget this command:
 ```
 npm install
 ```
-## Demo
-Puedes visualizar el proyecto [Aquí](https://jorge-llanque.github.io/JavaScript-Vanilla/)
+
