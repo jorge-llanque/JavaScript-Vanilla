@@ -1,5 +1,5 @@
 # RICK AND MORTY - API
-This project was development with JavaScript Vanilla, and I'm using an API called [RickAndMortyApi](https://rickandmortyapi.com/).
+This project was development with JavaScript Vanilla and I'm using an API called [RickAndMortyApi](https://rickandmortyapi.com/).
 
 ## Deployment
 The app was upload on github-page, you can visit the app [here](https://jorge-llanque.github.io/JavaScript-Vanilla/).
