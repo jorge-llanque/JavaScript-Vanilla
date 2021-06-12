@@ -12,7 +12,7 @@ npm install
 ```
 
 ## TECHNOLOGIES AND TOOLS
- In general I'm using javascript for the development. But for more specification I'm using:
+ In general I'm using Javascript for the development. But for more specification I'm using:
  * Javascript
  * CSS3
  * HTML5
